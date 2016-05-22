@@ -1,0 +1,6 @@
+Yugo GV; Black; Richard; 120,000; 1985
+Honda Odyssey; Yellow; Lisa; 549; 2013
+Mitsubishi PX33; Dark Blue; Tanner; 57,000 ; 1950
+Shelby GT350; White and Blue; Justin; 247; 1937
+Lotus Exige; Black; Bryce; 0; 2000 
+Red Bull X1 Prototype; Blue; Dustin; 0; 2012
